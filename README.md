@@ -11,7 +11,7 @@
 将 `0804.po` 复制到以下目录：
 
 ```
-%AppData%\RealWorld\RWCursorEditor
+%AppData%\RealWorld\RWCursorEditor\
 ```
 
 完整路径示例：
